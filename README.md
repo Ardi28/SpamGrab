@@ -6,7 +6,7 @@ $ pkg install python<br>
 $ pkg install git<br>
 $ pip install requests<br>
 $ git clone https://github.com/KANG-NEWBIE/SpamGrab<br>
-$ cd SpamGrab<br
+$ cd SpamGrab<br>
 $ python grab.py
 # USAGE
 1. Pada saat akan memasukan nomor target pastikan pakai 62 ya.. Contoh (6286969696969)
