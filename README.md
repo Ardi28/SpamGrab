@@ -1,3 +1,5 @@
+# UPDATE
+•Optimized
 # SpamGrab
 SPAM SMS (GRAB) UNLIMITED
 # INTALLATION
